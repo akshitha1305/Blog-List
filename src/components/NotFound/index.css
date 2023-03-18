@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.head {
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+.home {
+  width: 80px;
+}

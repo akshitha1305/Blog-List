@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.nav-bar {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+}
+.nav-logo {
+  display: flex;
+}
+.wave-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  align-self: center;
+}
+.wave-head {
+  font-size: 24px;
+  font-weight: 600;
+  align-self: center;
+}
+.nav-items {
+  display: flex;
+}
+.item {
+  font-size: 24px;
+  font-weight: 600;
+  margin-right: 10px;
+}
